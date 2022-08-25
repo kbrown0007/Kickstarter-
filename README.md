@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-During the month of May and June is where we seen the most success. 
+During the month of May and June is where we seen the most success. .  It really started to decline in November and December seeing some of the lowest numbers. 
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
