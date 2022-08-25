@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-
+The purpose of this is to sort campaign outcomes so that we can see the outcomes of the launch dates from January to December. As well as seeing the outcomes for the success failed campaigns and even those that got cancelled.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
