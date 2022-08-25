@@ -9,10 +9,8 @@ seeing the outcomes for the success failed campaigns and even those that got can
 
 ## Analysis and Challenges
 
-My analysis is that the campaign in the year has some success overall, yet it seems to me that it also has fallen short of it predicted goals.  
-
 ### Analysis of Outcomes Based on Launch Date
-
+My analysis is that the campaign in the year has some success overall, yet it seems to me that it also has fallen short of it predicted goals.  
 During the month of May and June is where we seen the most success. .  It really started to decline in November and December seeing some of the lowest numbers. 
 
 ### Analysis of Outcomes Based on Goals
