@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+During the month of May and June is where we seen the most success. 
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
