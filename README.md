@@ -19,6 +19,7 @@ During the month of May and June is where we seen the most success. .  It really
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
+
 A lot of the information is not in the right format for readable data. Some of the format have to be changed and adjusted to read the right numbers and changed into the right formats.  
 - What are some other possible tables and/or graphs that we could create?
 
