@@ -3,14 +3,23 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this is to sort campaign outcomes so that we can see the outcomes of the launch dates from January to December. As well as seeing the outcomes for the success failed campaigns and even those that got cancelled.
+
+The purpose of this is to sort campaign outcomes so that we can see the outcomes of the launch dates from January to December.  this will hellp us to see As well as 
+seeing the outcomes for the success failed campaigns and even those that got cancelled.
+
 ## Analysis and Challenges
 
+My analysis is that the campaign in the year has some success overall, yet it seems to me that it also has fallen short of it predicted goals.  
+
 ### Analysis of Outcomes Based on Launch Date
+
 During the month of May and June is where we seen the most success. .  It really started to decline in November and December seeing some of the lowest numbers. 
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+
+I found that trying to reduce some of the formats to the dataset to be a little troublesome. Like deadline dates were placed in seconds rather than months. Which can be almost imposable to know exactly what those numbers mean.
 
 ## Results
 
